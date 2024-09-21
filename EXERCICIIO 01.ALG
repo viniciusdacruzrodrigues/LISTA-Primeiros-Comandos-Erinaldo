@@ -5,8 +5,6 @@ Algoritmo "TESTANDO ALGORITMO"
 // Autor(a)    : VINICIUS DA CRUZ RODRIGUES
 // Data atual  : 07/08/2024
 Var
-// Seção de Declarações das variáveis 
-
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
