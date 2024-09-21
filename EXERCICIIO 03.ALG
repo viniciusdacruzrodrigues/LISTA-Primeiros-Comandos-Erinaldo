@@ -1,16 +1,16 @@
 Algoritmo "TRIPLO"
-// Disciplina   : [Linguagem e L?gica de Programa??o]
+// Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Antonio Carlos Nicolodi
 // Descri??o   : CALCULA O TRIPLO DE UM NUMERO ALEATORIO
 // Autor(a)    : VINICIUS DA CRUZ RODRIGUES
 // Data atual  : 07/08/2024
 Var
-// Se??o de Declara??es das vari?veis
+// Seção de Declarações das variáveis
    a: inteiro
    s: inteiro
 
 Inicio
-// Se??o de Comandos, procedimento, fun??es, operadores, etc...
+// Seção de Comandos, procedimento, funções, operadores, etc...
    escreva("Digite um valor: ")
    leia(a)
    s<-a*3
