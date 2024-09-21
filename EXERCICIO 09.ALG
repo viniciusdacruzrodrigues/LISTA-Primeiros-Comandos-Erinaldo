@@ -1,25 +1,23 @@
-Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+Algoritmo "FORMULA _ D=A+C-B"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : Antonio Carlos Nicolodi
+// DescriÃ§Ã£o   : APRESENTAR O VALOR DO 'D' DE ACORDO COM A FORMULA
+// Autor(a)    : VINICIUS DA CRUZ RODRIGUES
 // Data atual  : 07/08/2024
 Var
-// Seção de Declarações das variáveis 
    a: inteiro
    b: inteiro
    c: inteiro
    d: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-   escreva("Digite um valor: ")
+   escreva("Digite o valor de A: ")
    leia(a)
-   escreva("Digite outro valor: ")
+   escreva("Digite o valor de B: ")
    leia(b)
-   escreva("Digite outro valor: ")
+   escreva("Digite o valor de C: ")
    leia(c)
    d<-(a+c-b)
-   escreva("O resultado dessa formula é",d)
+   escreva("O resultado dessa formula = ",d)
 
 Fimalgoritmo
