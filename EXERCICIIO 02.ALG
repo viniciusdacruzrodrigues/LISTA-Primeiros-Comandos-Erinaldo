@@ -11,6 +11,7 @@ Var
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
   escreva("Digite um valor: ")
+   leia(a)
   s<-a*2
   escreva("O dobro de",a,"é igual a",s)
 
