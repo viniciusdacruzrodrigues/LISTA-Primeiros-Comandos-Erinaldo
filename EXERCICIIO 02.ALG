@@ -1,17 +1,17 @@
-Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "DOBRO"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// DescriÃ§Ã£o   : CALCULA O DOBRO DE UM NUMERO ALEATORIO
+// Autor(a)    : VINICIUS DA CRUZ RODRIGUES
 // Data atual  : 07/08/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
    a: inteiro
    s: inteiro
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
   escreva("Digite um valor: ")
   s<-a*2
-  escreva("O dobro de",a,"é igual a",s)
+  escreva("O dobro de",a,"Ã© igual a",s)
 
 Fimalgoritmo
