@@ -1,3 +1,4 @@
+//NOME: VINICIUS DA CRUZ RODRIGUES
 programa {
   funcao inicio() {
     inteiro z,l,a,c
