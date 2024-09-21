@@ -1,20 +1,20 @@
-Algoritmo "exercicio 08"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+Algoritmo "subtraÃ§Ã£o"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : Antonio Carlos Nicolodi
+// DescriÃ§Ã£o   : APRESENTA A SUBTRAÃ‡ÃƒO DE DOIS NUMEROS
+// Autor(a)    : VINICIUS DA CRUZ RODRIGUES
 // Data atual  : 07/08/2024
 Var
-// Seção de Declarações das variáveis 
    a: inteiro
    b: inteiro
    s: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
    escreva("Digite um valor: ")
+   leia(a)
    escreva("Digite um valor: ")
+   leia(b)
    s<-a-b
-   escreva("A subtração de",a,"e",b,"é igual a",s)
+   escreva("A subtraÃ§Ã£o de",a," e",b," e igual a",s)
 
 Fimalgoritmo
