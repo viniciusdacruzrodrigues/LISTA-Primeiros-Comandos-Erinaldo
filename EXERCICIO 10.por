@@ -11,7 +11,7 @@ programa {
 
     z = (l + a * 2) / c
 
-    escreva("O valor de z é igual a ",z)
+    escreva("O valor de z =  ",z)
     
   }
 }
