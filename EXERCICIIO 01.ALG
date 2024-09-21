@@ -1,15 +1,15 @@
-Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "TESTANDO ALGORITMO"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// DescriÃ§Ã£o   : APRESENTAR UMA FRASE
+// Autor(a)    : VINICIUS DA CRUZ RODRIGUES
 // Data atual  : 07/08/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
      escreva("Testando algoritmo")
 
 Fimalgoritmo
