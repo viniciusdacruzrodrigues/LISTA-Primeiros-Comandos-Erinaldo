@@ -1,7 +1,7 @@
 Algoritmo "Porcentagem"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Antonio Carlos Nicolodi
-// Descri??o   : APRESENTA 60% DO VALOR DE UM NUMERO
+// Descrição   : APRESENTA 60% DO VALOR DE UM NUMERO
 // Autor(a)    : VINICIUS DA CRUZ RODRIGUES
 // Data atual  : 07/08/2024
 Var
